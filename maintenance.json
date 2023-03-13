@@ -1,9 +1,9 @@
 {
   "mainnet": {
-    "state": true,
-    "start": "2023-03-13T13:00:00+0900",
-    "end": "2023-03-13T14:00:00+0900",
-    "desc": "Maintenance for FCD Maintenance"
+    "state": false,
+    "start": "",
+    "end": "",
+    "desc": ""
   },
   "testnet": {
     "state": false,
