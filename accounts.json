@@ -43,6 +43,14 @@
     {
       "account": "Reserve",
       "address": "xpla10ksn9528f82uwnmz3sgr4n42l0nucmzntjrg00"
+    },
+    {
+      "account": "DAO-01_Vesting S.C",
+      "address": "xpla184wqr0gywa25lkpcwc2zcenkvk6xmqdfukyj5hud9srgv23nqzjsk6em02"
+    },
+    {
+      "account": "DAO-02_Vesting S.C",
+      "address": "xpla1nyt65dwpwl0vyn9mfshykkvmuv0cny4554jevk48sp86cpcq5jpqp0kv7t"
     }
   ],
   "testnet": [
